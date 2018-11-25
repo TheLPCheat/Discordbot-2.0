@@ -1,0 +1,21 @@
+{
+  "name": "KatzeBot",
+  "version": "1.0.0",
+  "description": "Katzes bot hehe^^.",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Katze",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "fs": "0.0.1-security",
+    "moment": "^2.22.2",
+    "ms": "^2.1.1",
+    "quick.db": "^7.0.0-b15",
+    "superagent": "^4.0.0-beta.5",
+    "ytdl": "^0.10.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
